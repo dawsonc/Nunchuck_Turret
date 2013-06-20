@@ -1,4 +1,4 @@
 Nunchuck Controlled Arduino Turret
 ==================================
 
-See the [instructable]() for build instructions and explanation of code
+See the [instructable](http://www.instructables.com/id/Wiichuck-Controlled-Turret/) for build instructions and explanation of code
